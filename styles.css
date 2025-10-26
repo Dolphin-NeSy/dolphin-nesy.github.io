@@ -649,6 +649,18 @@ html {
     margin-bottom: 12px;
 }
 
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer-logo-img {
+    height: 28px;
+    width: auto;
+    display: block;
+}
+
 .footer-section h4 {
     color: white;
     font-size: 16px;
